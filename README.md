@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Muhammad+Abdul+Rehman!;" />
 </h1>
 
-### 🚀 Software Engineer | Data Science & ML Enthusiast | Full-Stack Developer
+### 🚀 Software Engineer | Data Science & ML Engineer | Full-Stack Developer
 
 I am a Computer Science graduate from **COMSATS University Islamabad (Wah Campus)** with expertise in Data Science, Machine Learning, and Full-Stack Development. I specialize in building scalable software solutions and implementing AI-driven systems.
 
